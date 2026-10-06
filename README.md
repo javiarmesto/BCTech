@@ -1,3 +1,7 @@
+> **Fork context:** this repository is a fork of [microsoft/BCTech](https://github.com/microsoft/BCTech). The documentation below retains the original project's authorship. Use the parent repository for its published releases and support guidance; this audit does not establish a separate maintained distribution or promise synchronization.
+>
+> [Compare this fork with its parent](https://github.com/microsoft/BCTech/compare/master...javiarmesto:BCTech:master). The comparison shows the current differences; fork-specific behavior must be assessed from those changes. Static documentation review: **6 October 2026**; no build, installation or service invocation performed.
+
 
 ![alt text](https://106c4.wpc.azureedge.net/80106C4/Gallery-Prod/cdn/2015-02-24/prod20161101-microsoft-windowsazure-gallery/microsoftdynsmb.3a67602d-0a4f-4ae4-ad03-c1124f6ac3cf.1.0.2/Icon/small.png)
 # Welcome to the Business Central Tech Samples
